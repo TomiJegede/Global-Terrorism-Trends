@@ -16,4 +16,8 @@ Using Power BI, I created interactive visualizations to communicate my findings.
 
 • Excel
 
-This project provided me with a deeper underst
+This project provided me with a deeper understanding of terrorism data and honed my ability to work with large datasets to generate insights that inform global issues.
+
+## Let’s Connect!
+I’m excited to continue growing my skills in data analytics and working on more challenging projects. 
+If you’d like to discuss any of these projects or explore opportunities in data analytics, feel free to reach out!
